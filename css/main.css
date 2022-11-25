@@ -14,13 +14,18 @@
 body { 
     font-size: 20px;
     background-color: black;
-    background-image:url(../img/hansome.jpg) ;
+    background-image:url(../images/fitness.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px ;
+    background-attachment:fixed;
+    background-position-x: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+    font-weight: 300;
     color: purple;
 }
 
-header > h1 { text-align: center; padding: 20px; font-style: inherit; font-size:xx-large;}
+header > h1 { text-align: center; padding: 20px; font-style: inherit; font-weight: bold; 
+    font-family: 'Times New Roman', Times, serif; }
 
 article { 
     width: 25%; 
@@ -49,8 +54,8 @@ ul { list-style-type: none; }
 
 ul li { padding: 6px 8px; text-transform: uppercase; }
 
-.todo li:nth-child(odd) { background-color: plum}
+.todo li:nth-child(odd) { background-color: lightyellow}
 
-.inprogress li:nth-child(odd) { background-color: plum}
+.inprogress li:nth-child(odd) { background-color: lightyellow}
 
-.done li:nth-child(odd) { background-color:plum}
+.done li:nth-child(odd) { background-color:lightyellow}
