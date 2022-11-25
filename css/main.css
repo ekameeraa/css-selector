@@ -12,7 +12,7 @@
 body { 
     font-size: 16px;
     background-color: black;
-
+    background-image:url(images/handsome.jpg) ;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
     color: white;
