@@ -13,6 +13,6 @@ TODO: Instructions
 5. Submit a pull request :D
 
 ## Credits
-TODO: Write credits
+credits goes Ekam
 ## License
 TODO: MIT
